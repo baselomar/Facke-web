@@ -51,7 +51,7 @@ echo -e "$blue
   IIIIIII. I  II  .    II..IIIIIIIIIIIIIIIIIIII
  .  .IIIIII  II          III$cyan  Ch33ch$blue IIIIIIIIII.
     .IIIII.III I      IIIIIIIII$cyan Sec$blue IIIIIIIII  I
-   .IIIIII$cyan Hacking$blue II  .IIII$cyan LordPhish$blue III. III
+   .IIIIII$cyan Hacking$blue II  .IIII$cyan JOR TEAM$blue III. III
     IIIIIII$cyan  From$blue   ' IIIII I IIIIIIIIIIII III I
     .II$cyan     Linux OS$blue   IIIIIIIIIIII  IIIIIIIIII
        I.           .IIIIIIIIIIII   I   II  I
@@ -66,7 +66,7 @@ echo -e "$blue
              \n"
 echo
 echo
-printf "      \e[1;97m  .:.  Version 2.0 Beta  .:.  \e[0m\n"
+printf "      \e[1;97m  .:.  Version 1.0 Beta  .:.  \e[0m\n"
 printf "\n"
 printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by BASEL OMAR (JOR TEAM) \e[0m\n"
 printf "\n"

@@ -11,15 +11,7 @@ UnzipFiles(){
 smail_banner() {
 printf "\n"
 printf "\n"
-printf "${red}
-
-╔═╗╔═╗╔═╗╦╔═╔═╗  ╦ ╦╔═╗╔╗\n"
-
-printf "${red}╠╣ ╠═╣║  ╠╩╗║╣   ║║║║╣ ╠╩╗\n"
-
-printf "${red}╚  ╩ ╩╚═╝╩ ╩╚═╝  ╚╩╝╚═╝╚═╝\n"
-
-\n"
+printf "${red}█░░ █▀█ █▀█ █▀▄ █▀█ █░█ █ █▀ █░█\n"
 printf "${red}█▄▄ █▄█ █▀▄ █▄▀ █▀▀ █▀█ █ ▄█ █▀█\n"
 printf "      \e[1;97m  .:.  Version 2.0 Beta  .:.  \e[0m\n"
 printf "\n"

@@ -7,7 +7,7 @@ clear
 printf "\e[1;31mFollow me one github\e[0m"
 echo
 
-echo -e "\E[1;33m::::::::::::::::::: \e[97m   LordPhish  \E[1;33m::::::::::::::::::::"
+echo -e "\E[1;33m::::::::::::::::::: \e[97m   JOR TEAM  \E[1;33m::::::::::::::::::::"
 echo -e "\e[97m                      ______
                    .-        -.
                   /            \
@@ -22,11 +22,11 @@ echo -e "\e[97m                      ______
        (@            --------                        \e[31m:: \e[97m
         "
 cd $HOME
-rm -rf LordPhish
-git clone https://github.com/Black-Hell-Team/LordPhish
+rm -rf Facke-web
+git clone https://github.com/baselomar/Facke-web
 clear
 echo ""
-echo -e "$red [ $yellow + $red ] $green LordPhish was successfully updated. $resetcollor"
+echo -e "$red [ $yellow + $red ] $green FACKE WEB was successfully updated. $resetcollor"
 sleep 3.7
 echo ""
 cd $HOME

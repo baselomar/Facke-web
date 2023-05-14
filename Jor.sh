@@ -1,46 +1,4 @@
 #!/usr/bin/env bash
-# Youtube Channel: Ch33ch_Sec
-# Inspired by the linux choice shellphish
-# Lordphish the best phishing tool!!!!
-# Github: https://github.com/grenoxx
-# Telegram: Ch33chOficial
-# 68 Webpages !!!!!!
-
-# Tunneling opitions:
-# ngrok
-# Localhost
-# LocalHostRun
-
-# Thanks for pages:
-# Pages by: Gr3n0xX
-# Pages by: Tahmid Rayat
-# Pages by: A1S0N
-# Pages by: Zeus
-# Pages by: Darkmidius
-# Pages by: AdvPhidhing devs
-
-# MIT license
-
-# Copyright (c) 2021 Gr3n0xX
-
-# Permission is granted, free of charge, to anyone who obtains a copy
-# of this software and associated documentation files (the "Software"), to handle
-# in the Software without restriction, including without limitation the rights
-# use, copy, modify, merge, publish, distribute, sublicense and / or sell
-# copies of the Software and allow the persons to whom the Software is
-# provided to do so, subject to the following conditions:
-
-# The above copyright notice and permission notice must be included in all
-# copies or substantial parts of the Software.
-
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING, BUT NOT LIMITED TO, MERCHANTABILITY GUARANTEES,
-# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT WILL THE
-# AUTHORS OR COPYRIGHT HOLDERS ARE RESPONSIBLE FOR ANY CLAIM, DAMAGE OR OTHERWISE
-# LIABILITY, WHETHER IN ACTION OF CONTRACT, CRIME OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR WITH THE USE OR OTHER OFFERS OF THE SOFTWARE.
-# IF THE SOFTWARE IS PUBLISHED ON GITHUB THE CREDITS OF THE SOFTWARE MAY BE IN THE FORM OF COMMENT, BANNER OR README.md!
-
 red='\e[1;31m'
 gren='\e[1;32m'
 Y='\e[1;33m'
@@ -78,7 +36,7 @@ user_interrupt(){
         sleep 2
         printf "\e[0m\n"
         printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44>"
-        printf " \e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m]\e[0m\e[1;96m Visit github.com/Ch4r0nN \e[0m"
+        printf " \e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m]\e[0m\e[1;96m Visit github.com/baselomar \e[0m"
         printf "\e[0m\n"
         exit 1
 
@@ -110,7 +68,7 @@ echo
 echo
 printf "      \e[1;97m  .:.  Version 2.0 Beta  .:.  \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Ch4r0nN \e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by BASEL OMAR (JOR TEAM) \e[0m\n"
 printf "\n"
 printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by LordPhish.  ::\e[0m\n"
@@ -129,7 +87,7 @@ echo -e "$R    ╔═╝$W███████████$R╚═╗"
 echo -e "$R   ╔╝$W███████████████$R╚╗"
 echo -e "$R   ║$W█████\033[1;32mCh4r0nN \033[00m\033[1;37m████$R║"
 echo -e "$R   ║$W█████████████████$R║    \e[1;36m•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•. \e[00m\e[1;31m"
-echo -e "$R   ║$W█████████████████$R║            \e[30;48;5;196m\e[1;32m\e[1;36m Lord\e[0m \e[30;48;5;39m\e[1;31m Phish\e[0m\e[1;31m"
+echo -e "$R   ║$W█████████████████$R║            \e[30;48;5;196m\e[1;32m\e[1;36m JOR\e[0m \e[30;48;5;39m\e[1;31m TEAM\e[0m\e[1;31m"
 echo -e "$R   ║$W█$R╔$W█████████████$R╗$W█$R║    \e[1;36m•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•. \e[00m\e[1;31m"
 echo -e "$R   ╚╦╝$W███$Gr▒▒\e[0m$W███$Gr▒▒\e[0m$W███$R╚╦╝    "
 echo -e "$R   ╔╝$W██$Gr▒▒▒▒\e[0m$W███$Gr▒▒▒▒\e[0m$W██$R╚╗     "
@@ -144,9 +102,9 @@ echo -e "$R ╔╝$W█$R╚══╦═╦══╦╩═╦═╦═╩╝"
 echo -e "$R╔╝$W█████$R║$W█$R║$W██$R║$W██$R║$W█$R║"
 echo -e "$R║$W██████$R║$W█████████$R║\033[00m"
 echo
-printf "      \e[1;97m  .:.  Version 2.0 Beta  .:.   \e[0m\n"
+printf "      \e[1;97m  .:.  Version 1.0 Beta  .:.   \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Gr3n0xX/Ch4r0nN \e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by BASEL OMAR \e[0m\n"
 printf "\n"
 printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;96m Instagram\e[0m      \e[1;92m[\e[0m\e[1;77m18\e[0m\e[1;92m]\e[0m\e[1;96m eBay   \e[0m          \e[1;92m[\e[0m\e[1;77m35\e[0m\e[1;92m]\e[0m\e[1;96m Gmail   \e[0m   \n"  
 
